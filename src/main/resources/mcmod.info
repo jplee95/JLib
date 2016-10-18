@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jpleelib",
+  "name": "Jplee's Lib",
+  "description": "Jplee's standard library of useful things",
+  "version": "1.0.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jplee"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
