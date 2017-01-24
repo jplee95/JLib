@@ -1,4 +1,4 @@
-package jplee.lib.common.asm;
+package jplee.jlib.util.asm;
 
 import java.util.Arrays;
 
